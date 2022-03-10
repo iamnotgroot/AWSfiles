@@ -1,2 +1,2 @@
 # AWSre/start-Python files
-all of aws restart coding activities
+all of py files on cloud9
